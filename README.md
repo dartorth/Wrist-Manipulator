@@ -16,3 +16,6 @@ During a manipulation in theatres or in ED a pressure pad is used to determine p
 #### 3.2. The device
 A 3 printed frame is designed with actuator points and channels for the flexible bladders.
 A lockable hydraulic or mechanical actuator is designed; for the prototype we may be using standard syringes
+
+
+### 7. References
