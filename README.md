@@ -11,8 +11,8 @@ The SF wrist Manipulator is a robotic device, that can be programmed to apply a 
 ### 3. Method
 
 #### 3.1. Collecting background parameters.
-During a manipulation in theatres or in ED a pressure pad is used to determine pressure applied to the patient’s surfaces.  This allows the representation of the local pressures experienced by the surfaces during such a manipulation.  This tool then can be used to determine the forces required to produce the corrective to be delivered by the actuators.  The tool will also be used to validate the conjecture that the device will provide a more uniform application of pressure to the patients
+During a manipulation in theatres or in ED a pressure pad is used to determine pressure applied to the patient’s surfaces.  This allows the representation of the local pressures experienced by the surfaces during such a manipulation.  This tool then can be used to determine the forces required to produce the corrective to be delivered by the actuators.  The tool will also be used to validate the conjecture that the device will provide a more uniform application of pressure to the patients limb surfaces
 
 #### 3.2. The device
-A 3 printed frame is designed with actuator points and chanells for the inflatable bladders.
-A lockable hydralic actuator is designed, for the prototype we will be using standard syringes
+A 3 printed frame is designed with actuator points and channels for the flexible bladders.
+A lockable hydraulic or mechanical actuator is designed; for the prototype we may be using standard syringes
