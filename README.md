@@ -20,7 +20,7 @@ A lockable hydraulic or mechanical actuator is designed; for the prototype we ma
 
 ### 7. References
 
-[Evolution and Current Applications of Robot-Assisted Fracture Reduction: A Comprehensive Review](https://doi.org/10.1007/s10439-019-02332-y)
+[Evolution and Current Applications of Robot-Assisted Fracture Reduction: A Comprehensive Review](https://doi.org/10.1007/s10439-019-02332-y)  
 JING-XIN ZHAO, CHANGSHENG LI, HONGLIANG REN, MING HAO, LI-CHENG ZHANG, PEI-FU TANG
 Annals of Biomedical Engineering 
 
@@ -29,5 +29,3 @@ Long Bai * , Jianxing Yang, Xiaohong Chen, Yuanxi Sun and Xingyu Li
 [Sensors](http://www.mdpi.com/journal/sensors), 18 August 2019 
 
 
-
-https://doi.org/10.1007/s10439-019-02332-y
