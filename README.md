@@ -8,6 +8,8 @@ Wrist manipulation is a common procedure for reduction of displaced fractures of
 ### 2.  Concept
 The SF wrist Manipulator is a robotic device, that can be programmed to apply a sequence of forces, applied via inherently matching surfaces.  The effects of the manipulation can be inmmediately visualsed, whilst the operator is remote from the device. The same device becomes the stabilsation device, maintaining the position it has achieved.  Future manipulations can be again performed using this device if needed.  To achieve conformity (and uniform contact pressures) the devices contact surfaces are fluid (e.g. silicone) filled bladders held within a more rigid frame, to which lockable mechanical (e.g. hydraulic or screw drivven) actuators are attached.  If used as a stabilisation device as well, the pressure within the contacting bladders may be cyclically changed to reduce pressure mentioned, in much the same way alternating pressure mattresses used in hospital patient care.
 
+For the puproses of this project, manipulation of the wrist is conceptualised as a manipulation of a distal radius relative to its proximal end about a intact ulnar strut/column.  This is the configuration of the majority of wrist fractures that would be treated using this particular method.
+
 ### 3. Method
 
 #### 3.1. Collecting background parameters.
