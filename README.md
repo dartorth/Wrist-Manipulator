@@ -19,7 +19,13 @@ During a manipulation in theatres or in ED a pressure pad is used to determine p
 Structures contacting the limb distal and proximal to the fracture are designed. Control of the fragments, (as in closed manual manipulation) relies on identifying the areas of the wrist that provde most control of the fragments. As they engage with fracture indirectly through skin and soft tissue the purchase is, by definition, less robust than the purchase obtained by pins into bone. There are several candidate surfaces for contact between device and target offering direct (through association with fracture fragment) and indirect (through ligamentotaxis) opportunities for manipulation.  
 
 #### 3.2.1 Surfaces for device contact proximal to the fracture.
-The soft tissues for the foream are bulky and offer poor contact with bony elements of interest, however they do offer a large surface area so this may help to achieve a better purchase.  
+The soft tissues for the foream are bulky, change geometrically with actions of the underlying musculature, and offer poor physical reqruitment of bony elements of interest, however they do offer a large surface area so this may help to achieve a better purchase.  Proximal purchase is better against the upper arm with a flexed elbow, requires elbow immobilisation. Rotational restriction of the forearm can only be achieved if elbow is immobilised as well, but has other drawbacks and may be not necessary (3).
+
+#### 3.2.2 Surfaces for device contact distal to the fracture.
+There are multple opportunities for distal purchase.  The soft tissue here are less bulky and have closer relationhip with the underlying bony elenments. The direct candidate surface can take advantage of the metaphyseal flare of the distal radius. This may appear to proviude the best hoilod of the distal radius, but the inevitable soft tissue swelling at the fracture site alters the local geomtetry. The fragility of the tissues at injury site makes for a potential risk of damage to the integument here.
+
+An indirect candidate is also the the proximal parts of the hand.  Here the CMC joints of the thumb and little finger, the bulk of the thenar and hypothenar tissues, and the metacarpals offer a less tangential surface  than the metaphyseal flare described above.
+
 
 #### 3.3
 Consideration should be also made for the potential of secondary damage to these soft tissues in the application of the structures. 
@@ -36,4 +42,6 @@ Medical Robotics in Bone Fracture Reduction Surgery: A Review
 Long Bai * , Jianxing Yang, Xiaohong Chen, Yuanxi Sun and Xingyu Li
 [Sensors](http://www.mdpi.com/journal/sensors), 18 August 2019 
 
+[Below-elbow or above-elbow cast for conservative treatment of extra-articular distal radius fractures with dorsal displacement: a prospective randomized trial](https://josr-online.biomedcentral.com/articles/10.1186/s13018-019-1530-1)n.Caruso, G., Tonon, F., Gildone, A. et al.   J Orthop Surg Res 14, 477 (2019). https://doi.org/10.1186/s13018-019-1530-1
 
+[Above and below-the-elbow plaster casts for distal forearm fractures in children](https://pubmed.ncbi.nlm.nih.gov/16391243/).Bohm ER, Bubbar V, Hing KY, et al.  J Bone Joint Surg Am. 2006;88-A:1-8.
