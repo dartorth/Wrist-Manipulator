@@ -15,8 +15,14 @@ For the puproses of this project, manipulation of the wrist is conceptualised as
 #### 3.1. Collecting background parameters.
 During a manipulation in theatres or in ED a pressure pad is used to determine pressure applied to the patient’s surfaces.  This allows the representation of the local pressures experienced by the surfaces during such a manipulation.  This tool then can be used to determine the forces required to produce the corrective to be delivered by the actuators.  The tool will also be used to validate the conjecture that the device will provide a more uniform application of pressure to the patients limb surfaces
 
-#### 3.2. The device
-A 3 printed frame is designed with actuator points and channels for the flexible bladders.
+#### 3.2. The device: Contact surfaces
+Structures contacting the limb distal and proximal to the fracture are designed. Control of the fragments, (as in closed manual manipulation) relies on identifying the areas of the wrist that provde most control of the fragments. As they engage with fracture indirectly through skin and soft tissue the purchase is, by definition, less robust than the purchase obtained by pins into bone. There are several candidate surfaces for contact between device and target offering direct (through association with fracture fragment) and indirect (through ligamentotaxis) opportunities for manipulation.  
+
+#### 3.2.1 Surfaces for device contact proximal to the fracture.
+The soft tissues for the foream are bulky and offer poor contact with bony elements of interest, however they do offer a large surface area so this may help to achieve a better purchase.  
+
+#### 3.3
+Consideration should be also made for the potential of secondary damage to these soft tissues in the application of the structures. 
 A lockable hydraulic or mechanical linear actuator is designed;  The actuators are designed to be lockable progressive with ends that have either one or two planes of freedom at the ends.  
 
 
