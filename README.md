@@ -24,7 +24,10 @@ The soft tissues for the foream are bulky, change geometrically with actions of 
 #### 3.2.2 Surfaces for device contact distal to the fracture.
 There are multple opportunities for distal purchase.  The soft tissue here are less bulky and have closer relationhip with the underlying bony elenments. The direct candidate surface can take advantage of the metaphyseal flare of the distal radius. This may appear to proviude the best hoilod of the distal radius, but the inevitable soft tissue swelling at the fracture site alters the local geomtetry. The fragility of the tissues at injury site makes for a potential risk of damage to the integument here.
 
-An indirect candidate is also the the proximal parts of the hand.  Here the CMC joints of the thumb and little finger, the bulk of the thenar and hypothenar tissues, and the metacarpals offer a less tangential surface  than the metaphyseal flare described above, thus requiring less contact pressure for the same axial force.  The forces are transferred to the distal radius via the capsule and radio carpal ligaments.  The volar and dorsal radioicarpal ligments are diferently oriented ligmanents with the consequence that using indirect axial forces are traqnsferred assymetricall to the volar and dorsal edges of the distal radius.
+An indirect candidate is also the the proximal parts of the hand.  Here the CMC joints of the thumb and little finger, the bulk of the thenar and hypothenar tissues, and the metacarpals offer a less tangential surface  than the metaphyseal flare described above, thus requiring less contact pressure for the same axial force.  The forces are transferred to the distal radius via the capsule and radio carpal ligaments.  The [volar]https://en.wikipedia.org/wiki/Palmar_radiocarpal_ligament#/media/File:Gray334.png) and [dorsal](https://en.wikipedia.org/wiki/Dorsal_radiocarpal_ligament#/media/File:Gray335.png) radioicarpal ligments are diferently oriented ligmanents with the consequence that using indirect axial forces are transferred assymetricalls to the volar and dorsal edges of the distal radius.
+
+
+
 
 #### 3.3
 Consideration should be also made for the potential of secondary damage to these soft tissues in the application of the structures. 
