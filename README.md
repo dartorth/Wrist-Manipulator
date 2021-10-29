@@ -1,4 +1,4 @@
-# The Shah Faria Wrist Manipulator
+# The Shah Faria Closed Wrist Fracture Manipulator
 
 ## Abstract
 
