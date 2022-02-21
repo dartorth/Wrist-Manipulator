@@ -27,7 +27,7 @@ There are multple opportunities for distal purchase.  The soft tissue here are l
 An indirect candidate is also the the proximal parts of the hand.  Here the CMC joints of the thumb and little finger, the bulk of the thenar and hypothenar tissues, and the metacarpals offer a less tangential surface  than the metaphyseal flare described above, thus requiring less contact pressure for the same axial force.  The forces are transferred to the distal radius via the capsule and radio carpal ligaments.  The [volar]https://en.wikipedia.org/wiki/Palmar_radiocarpal_ligament#/media/File:Gray334.png) and [dorsal](https://en.wikipedia.org/wiki/Dorsal_radiocarpal_ligament#/media/File:Gray335.png) radioicarpal ligments are diferently oriented ligmanents with the consequence that using indirect axial forces are transferred assymetricalls to the volar and dorsal edges of the distal radius.
 
 
-![F_XR Ankle Rt_20220221_162335]()
+![F_XR Ankle Rt_20220221_162335](https://user-images.githubusercontent.com/82781139/154993901-89591bb2-f27f-4923-a2c4-49815f7eefa1.jpeg)
 
 
 #### 3.3
